@@ -1,0 +1,16 @@
+.wrapper{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+
+}
+.flying-box{
+    background-color: crimson;
+    color:aliceblue;
+    width: 220px;
+    height: 30px;
+    padding:10px;
+    margin:0;
+    display: flex;
+    justify-content: center;
+}
